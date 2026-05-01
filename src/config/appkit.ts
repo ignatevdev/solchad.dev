@@ -1,0 +1,1 @@
+export const APPKIT_PROJECT_ID = process.env.NEXT_PUBLIC_APPKIT_PROJECT_ID!;
